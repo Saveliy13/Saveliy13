@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saveliy Izmailov
-- 👀 I’m interested in VR and AR
-- 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on Vr projects
+- 👨‍💻 I'm a technical artist
+- 👀 I'm interested in GameDev
+- 🌱 Like to write shaders
 - 📫 How to reach me izmailov.s.d@gmail.com
 
 <!---
