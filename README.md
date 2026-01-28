@@ -17,19 +17,14 @@ With over **4+ years of experience** in the industry, I specialize in building r
 
 ---
 
-### 🔥 Featured Project: [ExClick](https://github.com/yourusername/exclick)
+### 🔥 Featured Project: [ExClick](https://github.com/Saveliy-Izmailov/exclick)
 *A smart one-click export pipeline for Blender 5.0.* It automates the boring stuff (Pivots, Transforms, Naming) and validates geometry to ensure a "Game Ready" state.
 
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/saveliy-izmailov/
+- **LinkedIn:** [linkedin.com/in/saveliy-izmailov](https://www.linkedin.com/in/saveliy-izmailov/)
+- **ArtStation:** [artstation.com/saveliy](https://www.artstation.com/saveliy)
 - **Email:** izmailov.s.d@gmail.com
-- **Portfolio:** https://www.artstation.com/saveliy
 
 *"Turning 'it's impossible to render' into 'we just shipped it'."*
-
-<!---
-Saveliy13/Saveliy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
