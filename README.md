@@ -17,7 +17,7 @@ With over **4+ years of experience** in the industry, I specialize in building r
 
 ---
 
-### 🔥 Featured Project: [ExClick](https://github.com/Saveliy-Izmailov/exclick)
+### 🔥 Featured Project: [ExClick](https://github.com/Saveliy13/ExClick/tree/main)
 *A smart one-click export pipeline for Blender 5.0.* It automates the boring stuff (Pivots, Transforms, Naming) and validates geometry to ensure a "Game Ready" state.
 
 ---
